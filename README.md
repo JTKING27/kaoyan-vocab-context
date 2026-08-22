@@ -19,6 +19,13 @@
 - **历史记录**：查过的词随时回看
 - **词条卡片**：记忆主线、词源、用法说明（本地数据）
 
+## 效果截图
+
+<p align="center">
+  <img src="docs/screenshot-main.png" alt="查词结果总览" width="49%"/>
+  <img src="docs/screenshot-sentences.png" alt="展开的真题例句" width="49%"/>
+</p>
+
 ## 运行环境
 
 - Windows 10 / 11
