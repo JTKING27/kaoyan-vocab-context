@@ -1,5 +1,10 @@
 # 考研真题语境查单词
 
+[![GitHub Release](https://img.shields.io/github/v/release/JTKING27/kaoyan-vocab-context)](https://github.com/JTKING27/kaoyan-vocab-context/releases)
+[![License: MIT](https://img.shields.io/github/license/JTKING27/kaoyan-vocab-context)](https://github.com/JTKING27/kaoyan-vocab-context/blob/main/LICENSE)
+
+*Kaoyan English exam vocabulary in real exam context. Meanings ranked by how often they actually appear, with translations and collocations.*
+
 一个 Windows 桌面小工具：输入考研英语真题里遇到的生词，它把该词（含各种变形）在真题里出现过的所有句子捞出来，让 AI 按本地词典的义项逐句归类翻译，告诉你这个词在真题里最常考的意思是什么，并附全部真题例句。
 
 背单词最纠结的就是"一个词好几个意思，先背哪个"。这个工具直接告诉你答案：真题里哪个义项出现最多、出现在几篇文章里，按出现频率排序，每个义项配真题例句和整句翻译。
